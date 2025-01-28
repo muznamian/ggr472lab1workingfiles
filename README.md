@@ -19,7 +19,7 @@
     <br>
     <br>
 <p style=" color: black; text-align: center; font-size:large; font-family:sans-serif;"> To view the example of the GeoJson file of the Walled City of Lahore please check out this button
-<a href="c:\Users\mian1\Downloads\map.geojson"> GeoJson file</a>
+<a href="C:\Users\mian1\Downloads\map (1).geojson"> GeoJson file</a>
 <br>
 <br> <p style="color: black; text-align: center; font-size: large ; font-family:sans-serif;"> Would you like to learn more about the Walled City of Lahore from a professional website then check out this button<a href="https://walledcitylahore.gop.pk/"> click here</a>
 <body style = "background-color: bisque;"></body>
